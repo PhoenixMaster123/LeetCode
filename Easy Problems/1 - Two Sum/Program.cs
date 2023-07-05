@@ -14,16 +14,18 @@ namespace _1__Two_Sum___Easy
 
         private static int[] TwoSum(int[] nums, int target)
         {
-            for (int i = 0; i < nums.Length - 1; i++)
+             for (int i = 0; i < nums.Length; i++)
             {
-                if (nums[i] + nums[i + 1] == target)
+                for (int j = i + 1; j < nums.Length; j++)
                 {
-                    return new int[] { i, i + 1 };
+                    if (nums[j] == target - nums[i])
+                    {
+                        return new int[] { i, j };
+                    }
                 }
             }
-
-            // If no pair is found, you can return null or an empty array.
-            return new int[0];
+            // In case there is no solution, we'll just return null
+            return null;
         }
     }
 }
