@@ -1,0 +1,16 @@
+D:\LeetCode\Problems\3 - Valid Palindrome\bin\Debug\net5.0\3 - Valid Palindrome.exe
+D:\LeetCode\Problems\3 - Valid Palindrome\bin\Debug\net5.0\3 - Valid Palindrome.deps.json
+D:\LeetCode\Problems\3 - Valid Palindrome\bin\Debug\net5.0\3 - Valid Palindrome.runtimeconfig.json
+D:\LeetCode\Problems\3 - Valid Palindrome\bin\Debug\net5.0\3 - Valid Palindrome.runtimeconfig.dev.json
+D:\LeetCode\Problems\3 - Valid Palindrome\bin\Debug\net5.0\3 - Valid Palindrome.dll
+D:\LeetCode\Problems\3 - Valid Palindrome\bin\Debug\net5.0\3 - Valid Palindrome.pdb
+D:\LeetCode\Problems\3 - Valid Palindrome\obj\Debug\net5.0\3 - Valid Palindrome.csproj.AssemblyReference.cache
+D:\LeetCode\Problems\3 - Valid Palindrome\obj\Debug\net5.0\3 - Valid Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Problems\3 - Valid Palindrome\obj\Debug\net5.0\3 - Valid Palindrome.AssemblyInfoInputs.cache
+D:\LeetCode\Problems\3 - Valid Palindrome\obj\Debug\net5.0\3 - Valid Palindrome.AssemblyInfo.cs
+D:\LeetCode\Problems\3 - Valid Palindrome\obj\Debug\net5.0\3 - Valid Palindrome.csproj.CoreCompileInputs.cache
+D:\LeetCode\Problems\3 - Valid Palindrome\obj\Debug\net5.0\3 - Valid Palindrome.dll
+D:\LeetCode\Problems\3 - Valid Palindrome\obj\Debug\net5.0\refint\3 - Valid Palindrome.dll
+D:\LeetCode\Problems\3 - Valid Palindrome\obj\Debug\net5.0\3 - Valid Palindrome.pdb
+D:\LeetCode\Problems\3 - Valid Palindrome\obj\Debug\net5.0\3 - Valid Palindrome.genruntimeconfig.cache
+D:\LeetCode\Problems\3 - Valid Palindrome\obj\Debug\net5.0\ref\3 - Valid Palindrome.dll
