@@ -1,0 +1,16 @@
+D:\LeetCode\Problems\Problem One\bin\Debug\net5.0\Problem One.exe
+D:\LeetCode\Problems\Problem One\bin\Debug\net5.0\Problem One.deps.json
+D:\LeetCode\Problems\Problem One\bin\Debug\net5.0\Problem One.runtimeconfig.json
+D:\LeetCode\Problems\Problem One\bin\Debug\net5.0\Problem One.runtimeconfig.dev.json
+D:\LeetCode\Problems\Problem One\bin\Debug\net5.0\Problem One.dll
+D:\LeetCode\Problems\Problem One\bin\Debug\net5.0\Problem One.pdb
+D:\LeetCode\Problems\Problem One\obj\Debug\net5.0\Problem One.csproj.AssemblyReference.cache
+D:\LeetCode\Problems\Problem One\obj\Debug\net5.0\Problem One.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Problems\Problem One\obj\Debug\net5.0\Problem One.AssemblyInfoInputs.cache
+D:\LeetCode\Problems\Problem One\obj\Debug\net5.0\Problem One.AssemblyInfo.cs
+D:\LeetCode\Problems\Problem One\obj\Debug\net5.0\Problem One.csproj.CoreCompileInputs.cache
+D:\LeetCode\Problems\Problem One\obj\Debug\net5.0\Problem One.dll
+D:\LeetCode\Problems\Problem One\obj\Debug\net5.0\refint\Problem One.dll
+D:\LeetCode\Problems\Problem One\obj\Debug\net5.0\Problem One.pdb
+D:\LeetCode\Problems\Problem One\obj\Debug\net5.0\Problem One.genruntimeconfig.cache
+D:\LeetCode\Problems\Problem One\obj\Debug\net5.0\ref\Problem One.dll
