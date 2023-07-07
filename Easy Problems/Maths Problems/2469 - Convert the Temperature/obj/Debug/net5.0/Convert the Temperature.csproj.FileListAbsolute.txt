@@ -1,0 +1,16 @@
+D:\LeetCode\Problems\Convert the Temperature\bin\Debug\net5.0\Convert the Temperature.exe
+D:\LeetCode\Problems\Convert the Temperature\bin\Debug\net5.0\Convert the Temperature.deps.json
+D:\LeetCode\Problems\Convert the Temperature\bin\Debug\net5.0\Convert the Temperature.runtimeconfig.json
+D:\LeetCode\Problems\Convert the Temperature\bin\Debug\net5.0\Convert the Temperature.runtimeconfig.dev.json
+D:\LeetCode\Problems\Convert the Temperature\bin\Debug\net5.0\Convert the Temperature.dll
+D:\LeetCode\Problems\Convert the Temperature\bin\Debug\net5.0\Convert the Temperature.pdb
+D:\LeetCode\Problems\Convert the Temperature\obj\Debug\net5.0\Convert the Temperature.csproj.AssemblyReference.cache
+D:\LeetCode\Problems\Convert the Temperature\obj\Debug\net5.0\Convert the Temperature.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Problems\Convert the Temperature\obj\Debug\net5.0\Convert the Temperature.AssemblyInfoInputs.cache
+D:\LeetCode\Problems\Convert the Temperature\obj\Debug\net5.0\Convert the Temperature.AssemblyInfo.cs
+D:\LeetCode\Problems\Convert the Temperature\obj\Debug\net5.0\Convert the Temperature.csproj.CoreCompileInputs.cache
+D:\LeetCode\Problems\Convert the Temperature\obj\Debug\net5.0\Convert the Temperature.dll
+D:\LeetCode\Problems\Convert the Temperature\obj\Debug\net5.0\refint\Convert the Temperature.dll
+D:\LeetCode\Problems\Convert the Temperature\obj\Debug\net5.0\Convert the Temperature.pdb
+D:\LeetCode\Problems\Convert the Temperature\obj\Debug\net5.0\Convert the Temperature.genruntimeconfig.cache
+D:\LeetCode\Problems\Convert the Temperature\obj\Debug\net5.0\ref\Convert the Temperature.dll
