@@ -1,0 +1,16 @@
+D:\LeetCode\Problems\1929 - Concatenation of Array\bin\Debug\net5.0\1929 - Concatenation of Array.exe
+D:\LeetCode\Problems\1929 - Concatenation of Array\bin\Debug\net5.0\1929 - Concatenation of Array.deps.json
+D:\LeetCode\Problems\1929 - Concatenation of Array\bin\Debug\net5.0\1929 - Concatenation of Array.runtimeconfig.json
+D:\LeetCode\Problems\1929 - Concatenation of Array\bin\Debug\net5.0\1929 - Concatenation of Array.runtimeconfig.dev.json
+D:\LeetCode\Problems\1929 - Concatenation of Array\bin\Debug\net5.0\1929 - Concatenation of Array.dll
+D:\LeetCode\Problems\1929 - Concatenation of Array\bin\Debug\net5.0\1929 - Concatenation of Array.pdb
+D:\LeetCode\Problems\1929 - Concatenation of Array\obj\Debug\net5.0\1929 - Concatenation of Array.csproj.AssemblyReference.cache
+D:\LeetCode\Problems\1929 - Concatenation of Array\obj\Debug\net5.0\1929 - Concatenation of Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Problems\1929 - Concatenation of Array\obj\Debug\net5.0\1929 - Concatenation of Array.AssemblyInfoInputs.cache
+D:\LeetCode\Problems\1929 - Concatenation of Array\obj\Debug\net5.0\1929 - Concatenation of Array.AssemblyInfo.cs
+D:\LeetCode\Problems\1929 - Concatenation of Array\obj\Debug\net5.0\1929 - Concatenation of Array.csproj.CoreCompileInputs.cache
+D:\LeetCode\Problems\1929 - Concatenation of Array\obj\Debug\net5.0\1929 - Concatenation of Array.dll
+D:\LeetCode\Problems\1929 - Concatenation of Array\obj\Debug\net5.0\refint\1929 - Concatenation of Array.dll
+D:\LeetCode\Problems\1929 - Concatenation of Array\obj\Debug\net5.0\1929 - Concatenation of Array.pdb
+D:\LeetCode\Problems\1929 - Concatenation of Array\obj\Debug\net5.0\1929 - Concatenation of Array.genruntimeconfig.cache
+D:\LeetCode\Problems\1929 - Concatenation of Array\obj\Debug\net5.0\ref\1929 - Concatenation of Array.dll
