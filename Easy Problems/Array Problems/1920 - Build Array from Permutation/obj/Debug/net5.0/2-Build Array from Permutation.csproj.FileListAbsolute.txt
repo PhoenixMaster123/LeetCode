@@ -1,0 +1,16 @@
+D:\LeetCode\Problems\2-Build Array from Permutation\bin\Debug\net5.0\2-Build Array from Permutation.exe
+D:\LeetCode\Problems\2-Build Array from Permutation\bin\Debug\net5.0\2-Build Array from Permutation.deps.json
+D:\LeetCode\Problems\2-Build Array from Permutation\bin\Debug\net5.0\2-Build Array from Permutation.runtimeconfig.json
+D:\LeetCode\Problems\2-Build Array from Permutation\bin\Debug\net5.0\2-Build Array from Permutation.runtimeconfig.dev.json
+D:\LeetCode\Problems\2-Build Array from Permutation\bin\Debug\net5.0\2-Build Array from Permutation.dll
+D:\LeetCode\Problems\2-Build Array from Permutation\bin\Debug\net5.0\2-Build Array from Permutation.pdb
+D:\LeetCode\Problems\2-Build Array from Permutation\obj\Debug\net5.0\2-Build Array from Permutation.csproj.AssemblyReference.cache
+D:\LeetCode\Problems\2-Build Array from Permutation\obj\Debug\net5.0\2-Build Array from Permutation.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Problems\2-Build Array from Permutation\obj\Debug\net5.0\2-Build Array from Permutation.AssemblyInfoInputs.cache
+D:\LeetCode\Problems\2-Build Array from Permutation\obj\Debug\net5.0\2-Build Array from Permutation.AssemblyInfo.cs
+D:\LeetCode\Problems\2-Build Array from Permutation\obj\Debug\net5.0\2-Build Array from Permutation.csproj.CoreCompileInputs.cache
+D:\LeetCode\Problems\2-Build Array from Permutation\obj\Debug\net5.0\2-Build Array from Permutation.dll
+D:\LeetCode\Problems\2-Build Array from Permutation\obj\Debug\net5.0\refint\2-Build Array from Permutation.dll
+D:\LeetCode\Problems\2-Build Array from Permutation\obj\Debug\net5.0\2-Build Array from Permutation.pdb
+D:\LeetCode\Problems\2-Build Array from Permutation\obj\Debug\net5.0\2-Build Array from Permutation.genruntimeconfig.cache
+D:\LeetCode\Problems\2-Build Array from Permutation\obj\Debug\net5.0\ref\2-Build Array from Permutation.dll
