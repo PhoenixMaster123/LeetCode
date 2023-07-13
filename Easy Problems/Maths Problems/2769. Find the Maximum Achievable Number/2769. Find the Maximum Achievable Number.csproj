@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_2769._Find_the_Maximum_Achievable_Number</RootNamespace>
+  </PropertyGroup>
+
+</Project>

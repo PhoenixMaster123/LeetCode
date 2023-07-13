@@ -1,0 +1,16 @@
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\bin\Debug\net5.0\2769. Find the Maximum Achievable Number.exe
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\bin\Debug\net5.0\2769. Find the Maximum Achievable Number.deps.json
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\bin\Debug\net5.0\2769. Find the Maximum Achievable Number.runtimeconfig.json
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\bin\Debug\net5.0\2769. Find the Maximum Achievable Number.runtimeconfig.dev.json
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\bin\Debug\net5.0\2769. Find the Maximum Achievable Number.dll
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\bin\Debug\net5.0\2769. Find the Maximum Achievable Number.pdb
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\obj\Debug\net5.0\2769. Find the Maximum Achievable Number.csproj.AssemblyReference.cache
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\obj\Debug\net5.0\2769. Find the Maximum Achievable Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\obj\Debug\net5.0\2769. Find the Maximum Achievable Number.AssemblyInfoInputs.cache
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\obj\Debug\net5.0\2769. Find the Maximum Achievable Number.AssemblyInfo.cs
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\obj\Debug\net5.0\2769. Find the Maximum Achievable Number.csproj.CoreCompileInputs.cache
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\obj\Debug\net5.0\2769. Find the Maximum Achievable Number.dll
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\obj\Debug\net5.0\refint\2769. Find the Maximum Achievable Number.dll
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\obj\Debug\net5.0\2769. Find the Maximum Achievable Number.pdb
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\obj\Debug\net5.0\2769. Find the Maximum Achievable Number.genruntimeconfig.cache
+D:\LeetCode\Problems\2769. Find the Maximum Achievable Number\obj\Debug\net5.0\ref\2769. Find the Maximum Achievable Number.dll
